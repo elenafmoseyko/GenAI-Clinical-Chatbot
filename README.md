@@ -54,10 +54,3 @@ An ongoing feedback loop captures user insights and performance data, facilitati
 - **Embedding Quality and Thresholds**: Cosine similarity thresholds based on published research findings, adjusted empirically for this dataset.
 - **Model Consistency**: Assumed consistency in embedding model behavior relative to published research benchmarks.
 
-## Reproducibility
-### Documentation
-Comprehensive documentation including detailed code comments, data sources, and evaluation methodologies is provided.
-
-### Open Source
-The chatbot prototype, including scripts and resources, is openly shared on GitHub to facilitate reproducibility and collaboration.
-
