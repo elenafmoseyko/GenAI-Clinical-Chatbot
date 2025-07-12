@@ -1,4 +1,4 @@
-# 🧠 OncoQA-Bot: AI-Powered Q&A Chatbot for HER2-Positive Breast Cancer
+# OncoQA-Bot: AI-Powered Q&A Chatbot for HER2-Positive Breast Cancer
 
 > A generative AI chatbot leveraging **clinical NLP embeddings** and **retrieval-augmented generation (RAG)** to answer oncology-related questions with precision.
 
